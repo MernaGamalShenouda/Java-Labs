@@ -41,9 +41,12 @@ A GUI application that displays marquee string on it.
 A map that uses the alphabets as keys and a
 collection as values (This collection should only contain
 words starting with the corresponding key)
+
 • The application stores words into that
 collection.
+
 • Provided methods to print all the letters and corresponding
 words
+
 • Provided method to print the words of a given letter
 
