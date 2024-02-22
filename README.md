@@ -34,6 +34,9 @@ that defines the roots of an quadratic equation.
 **Description:**
 A GUI application that displays marquee string on it.
 
+![Simple Marquee App image](./assets/images/SimpleMarquee.PNG)
+
+
 <!-- Lab5 -->
 ### Simple Word Dictionary
 
