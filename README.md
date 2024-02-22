@@ -12,3 +12,13 @@ It's a GUI application that displays a ball which moves
 randomly on the application frame.
 
 ![Bouncing Ball App Image](./assets/images/BouncingBallApp.PNG)
+
+<!-- Lab2 -->
+### Complex Numbers Calc Generic
+
+**Description:**
+A generic class that could be used to represent complex
+numbers which contains some generic methods that represent basic arithmetic
+operation on complex(addition, subtraction, etc…)
+
+
