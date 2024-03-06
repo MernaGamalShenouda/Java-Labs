@@ -13,6 +13,8 @@ randomly on the application frame.
 
 ![Bouncing Ball App Image](./assets/images/BouncingBallApp.PNG)
 
+---
+
 <!-- Lab2 -->
 ### Complex Numbers Calc Generic
 
@@ -21,12 +23,16 @@ A generic class that could be used to represent complex
 numbers which contains some generic methods that represent basic arithmetic
 operation on complex(addition, subtraction, etc…)
 
+---
+
 <!-- Lab3 -->
 ### Quadratic Equation Roots
 
 **Description:**
 Using the interfaces in java.util.function to build an application 
 that defines the roots of an quadratic equation.
+
+---
 
 <!-- Lab4 -->
 ### Simple Marquee
@@ -36,6 +42,7 @@ A GUI application that displays marquee string on it.
 
 ![Simple Marquee App image](./assets/images/SimpleMarquee.PNG)
 
+---
 
 <!-- Lab5 -->
 ### Simple Word Dictionary
